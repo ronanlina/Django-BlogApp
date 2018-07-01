@@ -7,7 +7,9 @@ External software requirements :
 - XAMPP. (should run to use mysqlclient)
 
 for a more detailed theory and explanation watch TraversyMedia's django crash course vid.
+
 https://www.youtube.com/watch?v=D6esTdOLXh4&t=915s
+
 (project name and variables used in this project is not accurately same with TM's project but are still mostly similar).
 
 1.) Python version still have issues with mysqlclient (maybe because mysqlclient
