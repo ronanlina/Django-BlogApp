@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=D6esTdOLXh4&t=915s
 does not have support for 3.7 yet), so I recommend installing python version 3.6.6.
 
 2. install virtual environment
-    using pip :
+using pip :
 
         python pip install virtualenv
         python pip install virtualenvwrapper-win
@@ -36,14 +36,16 @@ to select which virtual environment to use : workon [NAME]
 
         pip install django
 
-        Afterwards, to create your django project perform this command.
+Afterwards, to create your django project perform this command.
 
-        django-admin startproject [DJANGO PROJ NAME]
+django-admin startproject [DJANGO PROJ NAME]
 
-        After the project files are installed go over to your project directory
-        and open the folder with your preferred text editor. (when using VS code, enter command  'code .').
+After the project files are installed go over to your project directory
+and open the folder with your preferred text editor. (when using VS code, enter command  'code .').
 
-        to run server, perform: python manage.py runserver.
+to run server, perform: 
+
+    python manage.py runserver
 
 5. Installing mysqlclient. 
 
